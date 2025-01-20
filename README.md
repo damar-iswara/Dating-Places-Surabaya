@@ -2,7 +2,9 @@
 Welcome to Dating Places Surabaya! This repository showcases my first attempt at building a website using Flutter. As I embark on my journey to learn Flutter, I’m excited to create a platform that highlights romantic and fun dating spots in Surabaya.
 
 ## Features
-- Responsive Design: Optimized for both desktop and mobile devices.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+
+Well, it might not be the best. But this is what i got, trying to learn flutter in couple of days. 
 
 ## Learning Goals
 Through this project, I aim to enhance my skills in:
